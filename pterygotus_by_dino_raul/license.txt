@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pterygotus by Dino Raul
+* source:	https://sketchfab.com/3d-models/pterygotus-by-dino-raul-77e31d7cc0df4053ab7beed9ac1f3a29
+* author:	kenchoo (https://sketchfab.com/kenchoo)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pterygotus by Dino Raul" (https://sketchfab.com/3d-models/pterygotus-by-dino-raul-77e31d7cc0df4053ab7beed9ac1f3a29) by kenchoo (https://sketchfab.com/kenchoo) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
